@@ -1,6 +1,6 @@
 {
   "name": "cssortie",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Rules for postcss-sorting",
   "main": "index.js",
   "repository": {
