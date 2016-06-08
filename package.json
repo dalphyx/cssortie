@@ -1,0 +1,20 @@
+{
+  "name": "cssortie",
+  "version": "0.0.0",
+  "description": "Rules for postcss-sorting",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalphyx/cssortie.git"
+  },
+  "keywords": [
+    "postcss",
+    "sorting"
+  ],
+  "author": "dalphyx <wjcbmk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dalphyx/cssortie/issues"
+  },
+  "homepage": "https://github.com/dalphyx/cssortie#readme"
+}
